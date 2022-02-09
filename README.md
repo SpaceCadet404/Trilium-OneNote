@@ -16,4 +16,4 @@ Technically none, theme will try and fetch the fonts it uses from the web. For o
 * Click the Trilium icon in the top left, select options, and under theme select OneNote.
 
 ## Screenshot
-![OneNote Screenshot](OneNote.png?raw=true "OneNote Screenshot")
+![OneNote Screenshot](onenote.png?raw=true "OneNote Screenshot")
